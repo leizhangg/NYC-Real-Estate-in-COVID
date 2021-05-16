@@ -50,9 +50,11 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of 4 Facts and 2 Dimensions
 ![Dimensional Model](https://github.com/leizhangg/NYC_Property_Sale_COVID/blob/main/image/dimFact%20table-2.png)
 
+
 This project's Kimball Bus Matrix:
 
 ![Kimball Bus Matrix](https://github.com/leizhangg/NYC_Property_Sale_COVID/blob/main/image/kimball%20bus%20metrix.png)
+
 
 ### Business Intelligence Design and Development
 
