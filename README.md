@@ -1,13 +1,13 @@
 # NYC Real Estate Analysis During Pandemic
 
 - Author(s):
-	* Wilson Hinh, [ Wilson.hinh@baruchmail.cuny.edu ]
- 	* Lei Zhang, [ lei.zhang2@baruchmail.cuny.edu ]
- 	* David Pun, [ David.Pun@baruchmail.cuny.edu ]
- 	* Macrin Francis, [ macrin.francis@baruchmail.cuny.edu ]
+	* Wilson Hinh, Wilson.hinh@baruchmail.cuny.edu
+ 	* Lei Zhang, lei.zhang2@baruchmail.cuny.edu
+ 	* David Pun, David.Pun@baruchmail.cuny.edu
+ 	* Macrin Francis, macrin.francis@baruchmail.cuny.edu 
 
 - Date created: 5/12/2020
-- Class: CIS 9440
+- Class: CIS 9440 Data Warehousing
 
 ### Project Objective: 
 Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
