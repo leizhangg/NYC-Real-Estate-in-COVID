@@ -1,6 +1,6 @@
 # NYC Real Estate Analysis During Pandemic
 
-- Author(s):
+- Authors:
 	* Wilson Hinh, Wilson.hinh@baruchmail.cuny.edu
  	* Lei Zhang, lei.zhang2@baruchmail.cuny.edu
  	* David Pun, David.Pun@baruchmail.cuny.edu
