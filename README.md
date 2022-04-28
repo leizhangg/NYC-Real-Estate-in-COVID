@@ -14,9 +14,9 @@ Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Wa
 
 ### Project Tools:
 The tools used to build this Data Warehouse were: 
-1. For data integration - Python
-2. For data warehousing - Google BigQuery
-3. For Business Intelligence - Tableau
+1. Python
+2. Google BigQuery
+3. Tableau
 
 ## Kimball Lifecycle Project Stages
 
