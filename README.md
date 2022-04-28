@@ -1,9 +1,7 @@
 # NYC Real Estate Analysis During Pandemic
 
-- Authors: Lei Zhang
-
-
-- Date created: 5/12/2020
+##### Author: Lei Zhang
+##### Date created: 5/12/2020
 
 
 ### Project Objective: 
